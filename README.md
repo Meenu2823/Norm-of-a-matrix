@@ -44,17 +44,17 @@ print(Norm_of_matrix)
 ```
 ## Output:
 ### 1-Norm of a Matrix
-<br>![Alt text](norm.png)
+<br>![output](norm.png)
 <br>
 <br>
 
 ### 2-Norm of a Matrix
-<br>![Alt text](2norm-1.png)
+<br>![output](2norm-1.png)
 <br>
 <br>
 
 ### Infinity Norm of a Matrix
-<br>![Alt text](inorm.png)
+<br>![output](inorm.png)
 <br>
 <br>
 
